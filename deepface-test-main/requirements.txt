@@ -1,0 +1,3 @@
+deepface
+numpy
+opencv_python
